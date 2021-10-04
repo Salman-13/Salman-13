@@ -26,7 +26,7 @@ ____
   <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-rgb(242, 78, 30)?style=for-the-badge&logo=figma&logoColor=white" />
   <img alt="WebPack" src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=Postman" />
-  <img alt="WebPack" src="https://img.shields.io/badge/webpack-111111?style=for-the-badge&logo=Webpack" />
+ 
   
   
 </p>
