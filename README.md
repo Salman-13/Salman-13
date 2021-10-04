@@ -4,7 +4,7 @@
 
 ____
 
-### Использую следующие стеки:
+### Использую следующие технологии:
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML-yellow?style=for-the-badge&logo=HTML5&logoColor=orange" />
