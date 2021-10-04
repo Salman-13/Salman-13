@@ -1,4 +1,10 @@
-### Используемые мною технологии:
+### Мои проекты:
+- Memes-constructor: [Код](https://github.com/Salman-13/memes-constructor)
+- Share-medication: [Код](https://github.com/Salman-13/share-medication)
+
+____
+
+### Использую следующие стеки:
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML-yellow?style=for-the-badge&logo=HTML5&logoColor=orange" />
@@ -19,15 +25,10 @@
   <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-rgb(242, 78, 30)?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
 ____
 
-### Мои работы:
-- Memes-constructor: [Код](https://github.com/Salman-13/memes-constructor)
-- Share-medication: [Код](https://github.com/Salman-13/share-medication)
+### Связать со смной:
 
-____
-
-### Для связи:
-
-[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/Salman_WD)
+[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/Salman-WD)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram)](https://www.instagram.com/_akhmadov_777_/)
+[![whatsapp](https://img.shields.io/badge/whatsapp-111111?style=for-the-badge&logo=whatsapp)]((https://wa.me/79298973604))
