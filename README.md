@@ -1,6 +1,6 @@
 ### Мои проекты:
-- Memes-constructor: [Код](https://github.com/Salman-13/memes-constructor) [Демо](https://memes-constructor.herokuapp.com)
-- Share-medication: [Код](https://github.com/Salman-13/share-medication) [Демо](https://share-medication.herokuapp.com)
+- Memes-constructor: [Код](https://github.com/Salman-13/memes-constructor) | [Демо](https://memes-constructor.herokuapp.com)
+- Share-medication: [Код](https://github.com/Salman-13/share-medication) | [Демо](https://share-medication.herokuapp.com)
 
 ____
 
