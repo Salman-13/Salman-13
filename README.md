@@ -1,6 +1,6 @@
 ### Мои проекты:
-- Memes-constructor: проект, где можно создавать свои мемы. Можно скачивать, удалять или выставить в общую ленту. [Код](https://github.com/Salman-13/memes-constructor) 
--  [Код](https://github.com/Salman-13/memes-constructor)
+- iq-frontend: проект, где можно обсуждать любые темы на разработку. 
+-  [Код](https://github.com/Salman-13/iqa-frontend) 
 -  -------------------------------------------------------
 - Share-medication: благотворительный проект. Люди могут оставить заявку на нужное лекарство, чтобы получить их бесплатно.
 - [Код](https://github.com/Salman-13/share-medication)
